@@ -13,3 +13,8 @@ function countNegative(arr) {
 let arr = [2, -9, 17, 0, 1, -10, -4, 8];
 let totalNegativeNum = countNegative(arr);
 console.log(totalNegativeNum);
+
+/*
+Solution Doucment:
+https://namastedev.com/learn/namaste-dsa/count-negative-numbers-in-an-array
+*/

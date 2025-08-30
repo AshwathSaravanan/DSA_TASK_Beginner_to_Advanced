@@ -18,3 +18,9 @@ let arr = [5,-9,-19,-3];
 let result = findLargestNumber(arr);
 
 console.log(result);
+
+/*
+Solution : 
+https://namastedev.com/learn/namaste-dsa/find-largest-number-in-an-array-code-in-javascript
+
+*/
