@@ -12,3 +12,5 @@ let arr = [4, 2, 0, 10, 8, 30];
 let checkDataAvailable = checkDataIsPresented(arr,30);
 console.log(checkDataAvailable);
 
+
+
